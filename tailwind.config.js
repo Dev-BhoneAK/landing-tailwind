@@ -35,6 +35,9 @@ module.exports = {
         primaryColor: "#242d52",
         secondaryColor: "#f25f3a",
       },
+      backgroundImage: {
+        "cta-pattern": "url('/img/bg-simplify-section-desktop.svg')",
+      },
     },
   },
   plugins: [],
